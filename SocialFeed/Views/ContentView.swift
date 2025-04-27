@@ -14,7 +14,7 @@ struct ContentView: View {
                 }
             }
             .listStyle(.plain)
-            .navigationTitle("Auto Play Feed")
+            .navigationTitle("Social Feed")
         }
     }
 }
