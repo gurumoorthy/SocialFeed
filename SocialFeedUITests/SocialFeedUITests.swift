@@ -2,7 +2,7 @@
 //  SocialFeedUITests.swift
 //  SocialFeedUITests
 //
-//  Created by FEWA on 27/04/2025.
+//  Created by Gurumoorthy Arumugam on 27/04/2025.
 //
 
 import XCTest

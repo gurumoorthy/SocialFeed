@@ -29,6 +29,6 @@ struct VideoItem: Identifiable {
 
 struct ImageItem: Identifiable {
     let id = UUID()
-    let imageName: String  
+    let imageName: String
     let title: String
 }
